@@ -1,0 +1,45 @@
+body
+{
+	text-align: justify;
+	font-size: 13pt;
+	line-height: 25pt;
+	font-family: Cursive, sans-serif;
+	color: white;
+}
+
+h1
+{
+	text-align : justify;
+	font-size: 36 pt;
+	line-height: 20pt;
+	font-family: Serif;
+}
+#Top
+{
+	color: aqua;
+}
+img
+{
+	border-color: black; 
+	border-width: medium;               
+	border-style: solid;
+	padding: 5%;
+	margin: 2%;
+	display: block;
+}
+ol
+{
+	text-align: center;
+}
+li
+{
+	text-align: center;
+}
+
+body
+{
+	background-image: url("free-music-background-vector.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: 1600px;
+}
