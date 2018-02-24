@@ -4,7 +4,7 @@ body
 	font-size: 13pt;
 	line-height: 25pt;
 	font-family: Cursive, sans-serif;
-	color: white;
+	color: black;
 }
 
 h1
@@ -13,6 +13,7 @@ h1
 	font-size: 36 pt;
 	line-height: 20pt;
 	font-family: Serif;
+	color: red;
 }
 #Top
 {
@@ -30,7 +31,6 @@ li
 
 body
 {
-	background-image: url("free-music-background-vector.jpg");
 	background-repeat: repeat;
 	background-attachment: fixed;
 	background-size: 1600px;
