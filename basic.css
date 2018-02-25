@@ -42,3 +42,19 @@ ul {
 	colour: blue 
 }
 
+#navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#navigation {
+    float: left;
+}
+
+#navigation {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
