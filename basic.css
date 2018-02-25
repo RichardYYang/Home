@@ -43,7 +43,7 @@ li a {
     background-color: #dddddd;
 }
 #sources {
-	background-image: url(images/free-music-background-vector.jpg);
+	background-image: url("images/free-music-background-vector.jpg");
 	background-repeat: repeat;
 	background-attachment: fixed;
 	background-size: 1600px;
