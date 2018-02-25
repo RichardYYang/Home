@@ -7,7 +7,7 @@ body
 	color: black;
 }
 
-h1
+h1,h2,h3
 {
 	text-align : justify;
 	font-size: 36 pt;
@@ -29,12 +29,6 @@ li
 	text-align: center;
 }
 
-body
-{
-	background-repeat: repeat;
-	background-attachment: fixed;
-	background-size: 1600px;
-}
 ul {
     list-style-type: none;
     margin: 0;
@@ -47,4 +41,10 @@ li a {
     display: block;
     padding: 8px;
     background-color: #dddddd;
+}
+#sources {
+	background-image: <a href="images/free-music-background-vector.jpg>;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: 1600px;
 }
