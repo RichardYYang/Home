@@ -32,12 +32,6 @@ ul {
     overflow: hidden;
 }
 
-
-li a {
-    display: block;
-    padding: 8px;
-    background-color: #dddddd;
-}
 #sources {
 	background-image: url("images/free-music-background-vector.jpg");
 	background-repeat: repeat;
