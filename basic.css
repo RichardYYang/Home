@@ -59,6 +59,7 @@ img{
 	margin-right: auto;
 	padding: 40px;
 	border-color: white;
+	border-width: 5px;
 }
 p,ul{
 	background-color: white;
