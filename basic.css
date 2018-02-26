@@ -8,12 +8,12 @@ body
 	background-image: url("images/free-music-background-vector.jpg");
 	background-repeat: repeat;
 	background-attachment: fixed;
-	background-size: 1600px;
+	background-size: 50%;
 }
 
 h1,h2,h3
 {
-	font-size: 36 pt;
+	font-size: 36pt;
 	line-height: 20pt;
 	font-family: Serif;
 	color: red;
