@@ -28,7 +28,7 @@ ul {
 	list-style-type: disc;
 }
 
-#sources {
+.sources {
 	background-image: url("images/free-music-background-vector.jpg");
 	background-repeat: repeat;
 	background-attachment: fixed;
