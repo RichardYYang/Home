@@ -5,12 +5,7 @@ body
 	line-height: 25pt;
 	font-family: Garamond, sans-serif;
 	color: black;
-	background-image: url("images/free-music-background-vector.jpg");
-	background-repeat: repeat;
-	background-attachment: fixed;
-	background-size: 1600px;
 }
-
 h1,h2,h3
 {
 	font-size: 36pt;
@@ -50,15 +45,6 @@ img{
 	border-color: white;
 	border-width: 5px;
 }
-ul.Navigation {
-	list-style: none;
-	font-weight: bold;
-	margin-bottom: 10px;
-	width: 20px
-	text-align: center;
-	height: 40px;
-}
-
 p,ul{
 	background-color: white;
 }
