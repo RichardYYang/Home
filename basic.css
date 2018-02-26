@@ -5,6 +5,11 @@ body
 	line-height: 25pt;
 	font-family: Garamond, sans-serif;
 	color: black;
+	background color: white;
+	background-image: url("images/free-music-background-vector.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: 1600px;
 }
 
 h1,h2,h3
@@ -59,3 +64,4 @@ ul {
     padding: 8px;
     background-color: #dddddd;
 }
+
