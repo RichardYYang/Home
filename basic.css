@@ -48,18 +48,18 @@ ul {
 	color: blue 
 }
 
-#navigation {
+#Navigation {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-#navigation {
+#Navigation {
     float: left;
 }
 
-#navigation {
+#Navigation {
     display: block;
     padding: 8px;
     background-color: #dddddd;
