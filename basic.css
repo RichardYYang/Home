@@ -14,6 +14,7 @@ h1,h2,h3
 	line-height: 20pt;
 	font-family: Serif;
 	color: red;
+	background-color: white;
 }
 #Top
 {
@@ -39,7 +40,7 @@ ul {
 	background-size: 1600px;
 }
 #red {
-	colour: blue 
+	color: blue 
 }
 
 #navigation {
