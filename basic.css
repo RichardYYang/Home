@@ -12,8 +12,8 @@ h1,h2,h3
 	line-height: 20pt;
 	font-family: Serif;
 	color: red;
-	background-color: white;
-	text-align: center;}
+	text-align: center;
+}
 #Top
 {
 	color: aqua;
@@ -49,5 +49,5 @@ p,ul{
 	background-color: white;
 }
 hr{
-	width: 5%;
+	width: 40%;
 }
