@@ -1,4 +1,25 @@
+body
+{
+	text-align: justify;
+	font-size: 13pt;
+	line-height: 25pt;
+	font-family: Garamond, sans-serif;
+	color: black;
+	background color: white;
+	background-image: url("images/free-music-background-vector.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: 1600px;
 }
+
+h1,h2,h3
+{
+	font-size: 36 pt;
+	line-height: 20pt;
+	font-family: Serif;
+	color: red;
+	background-color: white;
+	text-align: center;}
 #Top
 {
 	color: aqua;
@@ -38,6 +59,7 @@ ul.Navigation {
 img{
 	display: block;
 	margin-left: auto;
+	width: 50%;
 	margin-right: auto;
 }
-    width: 50%;
+ 
